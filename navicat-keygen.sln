@@ -9,12 +9,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "navicat-patcher", "navicat-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "common", "common\common.vcxitems", "{6D81A756-475A-4093-919E-3E9217F662CA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "navicat-merge", "navicat-merge\navicat-merge.vcxproj", "{420139AA-CDEC-4C1B-8111-9A3931B453A9}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCCtrl3", "G:\Users\Administrator\source\repos\ConsoleApplication1\MFCCtrl3\MFCCtrl3.vcxproj", "{65953135-8395-4355-9364-0A6EF38B69E5}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCApplication1", "MFCApplication1\MFCApplication1.vcxproj", "{4C203474-30A2-4C6E-AEC0-E421FD7B3BA3}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NavicatCracker", "Navicat-Cracker\NavicatCracker.vcxproj", "{759AFCD1-1227-4070-B12E-4658EC908FE3}"
 EndProject
 Global
