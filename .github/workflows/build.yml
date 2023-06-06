@@ -1,5 +1,14 @@
 name: navicat-keygen builds
-on: [workflow_dispatch]
+on: 
+  # 手动触发事件
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'run actions'
 
 jobs:
   navicat-keygen-x86:
